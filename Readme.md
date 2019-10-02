@@ -1,5 +1,5 @@
  
-## Módulo: Nombre del modulo
+## Módulo: B2 - Fundamentos de Python para Análisis de Datos
 
 ### OBJETIVO 
  - Agrega lo que van a aprender en el modulo
