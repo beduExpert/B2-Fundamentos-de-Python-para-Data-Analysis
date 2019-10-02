@@ -1,13 +1,13 @@
- agrega el programa que se desarrollara con backticks>
- [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Reto 03
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Usar condicionales para verificar el estado de salud por medio del índice de masa corporal
 
 #### REQUISITOS 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Python3
 
-#### DESARR
-OLLO
+#### DESARROLLO
+Crea una función que calcule el indice de masa corporal.
+Crea una segunda función que reciba peso y estatura, y con ello calcule el IMC y determine si estas o no saludable.
+El código del reto 03 se encuentra aquí, pero no lo veas hasta que hayas desarrollado el ejercicio!
 

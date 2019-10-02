@@ -1,12 +1,11 @@
- agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Tipos de datos
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - El ejemplo muestra como funcionan las variables y los tipos de datos que pueden tener.
 
-#### REQUISITO
-S 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+#### REQUISITOS 
+1. Python 3
 
 #### DESARROLLO
-
+Ejecuta el programa con python3 Ejemplo1_tiposDeDatos.py
+Analiza el código con un editor de textos.

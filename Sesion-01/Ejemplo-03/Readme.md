@@ -1,12 +1,11 @@
- agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Ejemplo 3 - Condicionales.
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Aprender acerca de condicionales para bifurcar el código como se necesite, dependiendo de si las condiciones se cumplen o no.
 
-#### REQUISITO
-S 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+#### REQUISITOS 
+1. Python 3
 
 #### DESARROLLO
-
+Ejecuta el programa con python3 Ejemplo3_Condicionales.py
+Analiza el código con un editor de textos.

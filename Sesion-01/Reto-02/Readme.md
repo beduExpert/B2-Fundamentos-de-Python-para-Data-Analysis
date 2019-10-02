@@ -1,13 +1,11 @@
- agrega el programa que se desarrollara con backticks>
- [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Reto 02
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Crear funciones e invocarlas.
 
 #### REQUISITOS 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Python 3
 
-#### DESARR
-OLLO
+#### DESARROLLO
+Crea una función que describa como pasear al perro y como hacer deporte, como se muestra en las diapositivas. El código del reto 02 se encuentra aquí, pero no lo consultes hasta intentarlo tu mismo.
 

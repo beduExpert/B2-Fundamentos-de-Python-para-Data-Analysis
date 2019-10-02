@@ -1,13 +1,12 @@
- agrega el programa que se desarrollara con backticks>
- [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Reto 01.
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Construye una calculadora!
 
 #### REQUISITOS 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Python 3
 
-#### DESARR
-OLLO
-
+#### DESARROLLO
+Construye una calculadora que haga sumas, restas, multiplicaciones, divisiones, módulos (%) y potencias (**)
+Cada vez que calcules una operación, imprime el resultado. 
+El archivo Reto01.py tiene el resultado, pero no lo consultes si quieres intentarlo solo.

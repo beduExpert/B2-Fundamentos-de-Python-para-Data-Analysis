@@ -1,12 +1,12 @@
- agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Ejemplo 2: Procedimientos y funciones.
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Como operan los procedimientos y funciones como bloques que solucionan un problema específico. 
 
-#### REQUISITO
-S 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+#### REQUISITOS 
+1. Python 3
 
 #### DESARROLLO
+Ejecuta el programa con python3 "Ejemplo2_procedimientos_y_funciones.py"
+Analiza el código con un editor de textos.
 
