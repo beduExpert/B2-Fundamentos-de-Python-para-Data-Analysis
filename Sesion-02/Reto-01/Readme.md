@@ -1,13 +1,16 @@
- agrega el programa que se desarrollara con backticks>
- [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Reto 01 - Cuadernos de Jupyter
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Cración de cuadernos con Jupyter notebook
 
 #### REQUISITOS 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Python3
+2. Jupyter Notebook (pip3 install jupyter)
+3. Pandas (pip3 install pandas) 
+4. Matplotlib (pip3 instal matplotlib)
+5. NumPy (pip3 install numpy)
 
-#### DESARR
-OLLO
+#### DESARROLLO
+Genera tres cuadernos, uno para usarlo con Pandas, otro con Matplotlib, y uno mas con NumPy, cada cuaderno debe llevar el título, nombre y una breve introducción con un Markdown.
+
 
