@@ -1,12 +1,13 @@
- agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Ejemplo 02
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Aprender sobre Arreglos(vectores), matrices, y cubos.
+ - Aprender sobre inicialización con ceros, unos, constantes, y valores aleatorios.
 
-#### REQUISITO
-S 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+#### REQUISITOS 
+1. Python3
+2. Jupyter Notebook
+3. Numpy
 
 #### DESARROLLO
-
+Echa un vistazo al código para ver como se pueden generar arreglos, matrices y cubos, todos con datos diferentes. 

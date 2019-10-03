@@ -1,13 +1,13 @@
- agrega el programa que se desarrollara con backticks>
- [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Reto 03
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Realiza un producto punto (dot product) entre dos matrices de 2 x 2 
 
 #### REQUISITOS 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Python3
+2. NumPy
+3. Jupyter Notebook
 
-#### DESARR
-OLLO
+#### DESARROLLO
+Realiza un producto punto entre dos matrices, por medio de una función que reciba dos matrices de 2 x 2 en NumPy. 
 

@@ -1,12 +1,12 @@
- agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Ejemplo 01
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ -Bases de NumPy: El objeto Array, y como es que listas y array no es lo mismo. 
 
-#### REQUISITO
-S 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+#### REQUISITOS 
+1. Python3
+2. Jupyter Notebook
+3. Numpy
 
 #### DESARROLLO
-
+Echa un vistazo al código para ver como se comporta NumPy. No tengas miedo de modificar el código si lo requieres para experimentar!

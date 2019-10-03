@@ -1,12 +1,12 @@
- agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Ejemplo 03
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ -Filtrado de datos por condicionales. 
 
-#### REQUISITO
-S 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+#### REQUISITOS 
+1. Python3
+2. Jupyter Notebook
+3. Numpy
 
 #### DESARROLLO
-
+En este ejemplo filtramos datos por medio de condicionales. Con los datos condicionales podemos crear máscaras por filtros. 

@@ -1,13 +1,12 @@
- agrega el programa que se desarrollara con backticks>
- [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Reto 05
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Filtrado condicional de datos.
 
 #### REQUISITOS 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Python3
+2. Jupyter Notebook
+3. NumPy
 
-#### DESARR
-OLLO
-
+#### DESARROLLO
+En este reto hay que generar una matriz de 10 x 10 aleatoria, y solamente conservar los valores mayores a 0.5
