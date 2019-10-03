@@ -1,13 +1,23 @@
- agr
-ega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
-## Titulo de la Sesion 
+## Sesión 04 - Diccionarios, JSONs y Análisis Descriptivo de Datos.
 
 ### OBJETIVOS 
- - Lo que esperamos que el alumno aprenda al finalizar la sesion 
+ - Aprender acerca de Diccionarios.
+ - Aprender acerca de archivos JSON
+ - Aprender acerca de lista de diccionarios.
+ - Aprender acerca de lista de JSONs.
+ - Aprender acerca de manipulación de archivos JSON.
+ - Aprender acerca de Análisis exploratorio de datos
 
-#### ORGANIZ
-ACION DE LA CLASE 
-- Tema que veran en el ejemplo
+#### ORGANIZACION DE LA CLASE 
+- Diccionarios
 	- [Ejemplo 01](Ejemplo-01)
-	- [Reto 01](Reto-01)
+	- [Reto 02](Reto-02)
+	- [Reto 03](Reto-03)
 
+- Manipulación de archivos JSON
+	- [Ejemplo 01](Ejemplo-01)
+	- [Reto 04](Reto-04)
+    
+- Análisis descriptivo de datos
+	- [Ejemplo 01](Ejemplo-01)
+	- [Reto 06](Reto-06)

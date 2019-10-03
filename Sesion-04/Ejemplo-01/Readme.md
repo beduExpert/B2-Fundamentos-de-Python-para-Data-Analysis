@@ -1,12 +1,19 @@
- agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Ejemplo 01
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Aprender acerca de Diccionarios.
+ - Aprender acerca de archivos JSON
+ - Aprender acerca de lista de diccionarios.
+ - Aprender acerca de lista de JSONs.
+ - Aprender acerca de manipulación de archivos JSON.
+ - Aprender acerca de Análisis exploratorio de datos
 
-#### REQUISITO
-S 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+#### REQUISITOS 
+1. Python3
+2. Numpy
+3. JSON (pip3 install json)
+4. Matplotlib
+5. Pandas
 
 #### DESARROLLO
-
+Este ejemplo une todos los ejemplos de la sesión, la razón por la cual todos los ejemplos estan unidos es porque cada uno guarda relación con el anterior. 

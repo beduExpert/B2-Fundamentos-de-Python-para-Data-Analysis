@@ -1,13 +1,12 @@
- agrega el programa que se desarrollara con backticks>
- [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Reto 03
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Aprenderás acerca de la copia y concatenación de objetos diccionario en una lista de diccionarios.
 
 #### REQUISITOS 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Python3
+2. Jupyter Notebook
 
-#### DESARR
-OLLO
-
+#### DESARROLLO
+Describete a tres compañeros con un diccionario. utiliza el método "Copy" para ello.
+Una vez generados, añadelos a una lista para crear una lista de diccionarios.
