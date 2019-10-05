@@ -1,12 +1,13 @@
- agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Ejemplo 02
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Aprender a separar datos en bloques de entrenamiento y prueba con NumPy 
 
-#### REQUISITO
-S 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+#### REQUISITOS 
+1. Python3
+2. Matplotlib
+3. Scikit learn (pip3 install sklearn)
+4. Jupyter notebook 
 
 #### DESARROLLO
-
+En este ejemplo veremos como tomar algunas muestras aleatorias para separarlas en entrenamiento y en prueba. Es importante que el entrenamiento tenga mas muestras que la prueba, y que en ambos haya casos de todas las clases. 

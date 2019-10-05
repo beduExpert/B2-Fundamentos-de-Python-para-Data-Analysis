@@ -1,12 +1,13 @@
- agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Ejemplo 01
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Aprender acerca de agrupamiento (clusterización) con K medias
 
-#### REQUISITO
-S 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+#### REQUISITOS 
+1. Python3
+2. Matplotlib
+3. Scikit learn (pip3 install sklearn)
+4. Jupyter notebook
 
 #### DESARROLLO
-
+Observa este ejemplo y mira como es que el algoritmo de K medias crea clusters: bloques no supervisados que agrupan información por su semejanza.

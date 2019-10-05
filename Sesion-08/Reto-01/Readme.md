@@ -1,13 +1,14 @@
- agrega el programa que se desarrollara con backticks>
- [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Reto 01
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Programa una distancia euclidiana.
 
 #### REQUISITOS 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Python3
+2. Matplotlib
+3. Scikit learn (pip3 install sklearn)
+4. Jupyter notebook
 
-#### DESARR
-OLLO
+#### DESARROLLO
+Programa una distancia euclidiana, la cual pueda recibir cualquier dato: valores numéricos o vectores de numpy. Si pruebas con valores numéricos verás que la distancia es la resta de ambos valores (con su valor absoluto). si pruebas con vectores notarás que la distancia es distinta, y si pruebas con dos vectores con el mismo valor ambos, notarás que la distancia es 0.
 

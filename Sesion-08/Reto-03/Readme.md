@@ -1,13 +1,13 @@
- agrega el programa que se desarrollara con backticks>
- [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Reto 03
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Modifica los hiperparámetros de una red neuronal y reporta los cambios que notes en la precisión. 
 
 #### REQUISITOS 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Python3
+2. Matplotlib
+3. Scikit learn (pip3 install sklearn)
+4. Jupyter notebook
 
-#### DESARR
-OLLO
-
+#### DESARROLLO
+Genera tu propia red neuronal y modifica los hiperparámetros para que notes la diferencia de entrenamiento. Los hiperparámetros indican como se comporta tu red neuronal y como es que aprende. 
