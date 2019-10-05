@@ -1,13 +1,24 @@
- agr
-ega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
-## Titulo de la Sesion 
+## Sesión 05: Procesamiento y transformación de datos.
 
 ### OBJETIVOS 
- - Lo que esperamos que el alumno aprenda al finalizar la sesion 
+ - Aprender sobre limpieza y transformación de datos.
+ - Aprender sobre normalización.
+ - Aprender sobre mappeo de datos. 
+ - Aprender sobre unión de dataframes.
 
-#### ORGANIZ
-ACION DE LA CLASE 
-- Tema que veran en el ejemplo
+
+#### ORGANIZACION DE LA CLASE 
+- Limpieza de datos 
 	- [Ejemplo 01](Ejemplo-01)
 	- [Reto 01](Reto-01)
 
+- Normalización de datos 
+	- [Reto 02](Reto-02)
+    
+- Mappeo de datos
+	- [Ejemplo 02](Ejemplo-02)
+	- [Reto 01](Reto-01)
+    
+- Unión de Dataframes
+	- [Ejemplo 03](Ejemplo-03)
+	- [Reto 03](Reto-03)    

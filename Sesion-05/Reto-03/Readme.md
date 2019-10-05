@@ -1,13 +1,13 @@
- agrega el programa que se desarrollara con backticks>
- [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Reto 03
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Practica la unión de dataframes con merge. 
 
 #### REQUISITOS 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Python3
+2. Jupyter notebook
+3. Pandas
+4. Numpy 
 
-#### DESARR
-OLLO
-
+#### DESARROLLO
+Crea varios dataframes y unelos por medio de merge. Esto es útil para cuando deseas unir dataframes con órdenes desiguales.

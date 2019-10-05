@@ -1,12 +1,16 @@
- agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Ejemplo 01 
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Ejemplificar como se realiza la limpieza de datos. 
+ - Limpiar los datos que tienen NaNs en una base de datos. 
 
-#### REQUISITO
-S 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+#### REQUISITOS 
+1. Python3
+2. Pandas
+3. Numpy
+4. Matplotlib
+5. Jupyter Notebook
+6. El archivo meteoritos.json
 
 #### DESARROLLO
-
+En este ejemplo vemos algunas operaciones comunes en la limpieza de datos.

@@ -1,13 +1,14 @@
- agrega el programa que se desarrollara con backticks>
- [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Reto 02
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Aprender acerca de la normalizacion de datos.
 
 #### REQUISITOS 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Python3
+2. Jupyter notebook
+3. Pandas
+4. Numpy
 
-#### DESARR
-OLLO
-
+#### DESARROLLO
+Carga los datos de meteoritos.json, extrae la masa (mass) del dataframe y transformala a un arreglo NumPy con la función "to_numpy()"
+Con el arreglo de numpy obten el máximo, minimo, y haz una función de normalizción de valores 0.0 a 1.0

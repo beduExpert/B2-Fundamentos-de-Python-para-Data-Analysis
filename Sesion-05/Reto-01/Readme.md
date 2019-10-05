@@ -1,13 +1,13 @@
- agrega el programa que se desarrollara con backticks>
- [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Reto 01
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Practicar la limpieza de datos. 
 
 #### REQUISITOS 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Python3
+2. Jupyter notebook
+3. Pandas
+4. Numpy
 
-#### DESARR
-OLLO
-
+#### DESARROLLO
+Este reto va a consistir en limpiar datos del archvo meteoritos.json. Una vez que se hayan retirado datos en NaN, podremos hacer procesamiento con ellos.

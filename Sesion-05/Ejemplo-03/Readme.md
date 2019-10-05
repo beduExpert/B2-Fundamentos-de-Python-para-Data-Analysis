@@ -1,12 +1,12 @@
- agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Ejemplo 03
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Unión de dataframes en uno solo.
 
-#### REQUISITO
-S 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+#### REQUISITOS 
+1. Pandas
+2. NumPy
+3. Jupyter Notebook
 
 #### DESARROLLO
-
+En este ejemplo unimos dataframes por medio de operaciones que unen por columna, por fila, o por índice.
