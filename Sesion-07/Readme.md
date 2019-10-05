@@ -1,13 +1,19 @@
- agr
-ega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
-## Titulo de la Sesion 
+## Sesión 07: Regresión lineal en Python
 
 ### OBJETIVOS 
- - Lo que esperamos que el alumno aprenda al finalizar la sesion 
+ - Acerca de la regresión lineal.
+ - La neurona artificial mono-entrada
+ - La neurona artificial multi-entrada
+ - Bases y fundamentos del entrenamiento supervisado. 
+ - Regresor Lineal.
 
-#### ORGANIZ
-ACION DE LA CLASE 
-- Tema que veran en el ejemplo
+#### ORGANIZACION DE LA CLASE 
+- La neurona mono-entrada
+	- [Reto 02](Reto-02)
+- La neurona multi-entrada
+	- [Reto 02](Reto-02)
+- Regresión lineal
 	- [Ejemplo 01](Ejemplo-01)
-	- [Reto 01](Reto-01)
+	- [Reto 03](Reto-03)
+	- [Reto 04](Reto-04)
 

@@ -1,13 +1,10 @@
- agrega el programa que se desarrollara con backticks>
- [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Reto 02
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Programar una neurona mono-entrada
 
 #### REQUISITOS 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Python3
 
-#### DESARR
-OLLO
-
+#### DESARROLLO
+Dada una entrada, un peso y un bias, programa la salida de una neurona. No necesitas usar numPy para este ejercicio. 

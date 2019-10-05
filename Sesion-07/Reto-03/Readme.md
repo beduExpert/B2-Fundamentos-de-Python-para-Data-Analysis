@@ -1,13 +1,11 @@
- agrega el programa que se desarrollara con backticks>
- [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Reto 03
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Programa una neurona multi-entrada
 
 #### REQUISITOS 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Python3
+2. Numpy
 
-#### DESARR
-OLLO
-
+#### DESARROLLO
+Programa una neurona multi-entrada con numpy.dot, dado un arreglo de pesos sinápticos, un arreglo de entradas, y un bias único. 
