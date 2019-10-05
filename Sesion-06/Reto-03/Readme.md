@@ -1,13 +1,14 @@
- agrega el programa que se desarrollara con backticks>
- [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Reto 03
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Aprender a generar plots 3D
 
 #### REQUISITOS 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Python3
+2. Pandas
+3. Numpy
+4. Matplotlib
+5. El archivo dataset_cardio.csv
 
-#### DESARR
-OLLO
-
+#### DESARROLLO
+Carga el dataset de cardiología y genera un plot 3D que muestre scatterplots en 3 dimensiones. Utiliza varias combinaciones de características para generar diferentes plots.

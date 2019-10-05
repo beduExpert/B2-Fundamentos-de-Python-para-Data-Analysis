@@ -1,13 +1,14 @@
- agrega el programa que se desarrollara con backticks>
- [agrega la sesion con backticks]  
-## Titulo del Ejemplo 
+## Reto 02
 
 ### OBJETIVO 
- - Lo que esperamos que el alumno aprenda 
+ - Aprender a crear subplots.
 
 #### REQUISITOS 
-1. Lo necesario para desarrollar el ejemplo o el Reto 
+1. Python3
+2. Pandas
+3. Numpy
+4. Matplotlib
+5. El archivo dataset_cardio.csv
 
-#### DESARR
-OLLO
-
+#### DESARROLLO
+Dada una función de plotteo como la que se mostró en clase, genera varios subplots en una retícula de 3 x 3 para poder observar el dataset en casi toda su totalidad.
