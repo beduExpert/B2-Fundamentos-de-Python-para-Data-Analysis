@@ -1,5 +1,7 @@
  `Fundamentos de Python para Data Analysis`> `[Sesión 01]`  
 
+### Postwork
+
 ### OBJETIVO 
  - Identificar las operaciones del lenguaje orientado a objetos para comprender cómo funciona Python al analizar datos. 
 
