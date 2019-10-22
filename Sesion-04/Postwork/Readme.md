@@ -8,7 +8,8 @@
 #### DESARROLLO
 Como hemos visto, el análisis exploratorio de datos te servirá para tener una noción clara de cómo se comportan tus datos, y que es lo que puedes esperar de ellos. Por ejemplo: si tus datos presentan una distribución gaussiana o normal, es posible que cuando vayamos a entrenar un algoritmo de aprendizaje automático, los datos que son menos probables de aparecer sean más difíciles de reconocer.  
 
-**Tips:**
+**Tips:**  
+
 Si tu base de datos está muy desbalanceada, lo primero y más recomendable será buscar más datos de aquellas clases que casi no tienes muestras. (por ejemplo: en el caso de ciclistas, quizás convenga buscar ciclistas de edades avanzadas, que aunque hay pocos, es importante contemplarlos).  
 
 Si tu base de datos es difícil de nutrir con nuevos datos, puedes intentar retirar aquellos casos muy atípicos, dado que la probabilidad es que casi no aparezcan. 
