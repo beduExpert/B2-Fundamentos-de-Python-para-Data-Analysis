@@ -8,7 +8,8 @@
 #### DESARROLLO
 **Acerca de la limpieza, normalización e integración de datos.**  
 
-En esta sesión vimos acerca de cómo podemos limpiar los datos, normalizarlos, e integrar datos de diferentes dataframes en uno solo. Para ello, en tu proyecto ten en mente las siguientes acciones, siempre pensando en la estructura de tu proyecto:
+En esta sesión vimos acerca de cómo podemos limpiar los datos, normalizarlos, e integrar datos de diferentes dataframes en uno solo. Para ello, en tu proyecto ten en mente las siguientes acciones, siempre pensando en la estructura de tu proyecto:  
+
 **Tips:**
 
 Los datos limpios y descriptivos siempre serán mucho mejor para el resultado que cualquier algoritmo de IA; si tus datos están sucios, no importa que tengas el mejor poder de cómputo o los algoritmos más sofisticados, tus resultados serán mediocres. 
