@@ -15,3 +15,6 @@
  - [Sesión 7](Sesion 07): Regresión Lineal con Python 
  - [Sesión 8](Sesion 08): Clasificación con Python. Fundamentos de Machine Learning
 
+### Gitbook 
+
+https://app.gitbook.com/@beduexpert/s/data-analysis/
